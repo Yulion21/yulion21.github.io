@@ -5,7 +5,7 @@ date:       2016-05-26 18:45:00
 author:     Juliano Verissimo
 summary:    
 categories: 
-thumbnail:  heart
+thumbnail:  
 tags:
  - welcome
  - to
