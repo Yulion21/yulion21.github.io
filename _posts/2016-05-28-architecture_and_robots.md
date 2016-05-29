@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Architecture and Robots
-date:       2016-05-28 19:57:18
+date:       2016-28-09 21:39:18
 author:	    Juliano Verissimo
 summary:    An introduction on what is architecture, what is a robot and how they can combine.
 categories: architecture, robots
@@ -13,6 +13,7 @@ tags:
 ---
 
 ## What is Architecture?
+
 
 **"I call architecture frozen music" _-Goethe_**
 
@@ -48,10 +49,13 @@ can make organic and complex cuts into marble, and those are just some examples.
 
 ## How Could Architecture be Robotic?
 
-Even after being built a building can work with robotics.
+Even after being built a building can work with robotics. A building can make use of mechanical systems to
+improve the user experience through beauty or comfort. It is possible to make moving facades, dancing lights
+solar protections that move automatically, sensors that let you know about the surrounds quality and so on.
+It is even possible to make the whole house a robot: a house that moves according to the season.
 
-### Some Interesting Links:
-- Association for Robots in Architecture Page: http://www.robotsinarchitecture.org/
-- Association for Robots in Architecture Vimeo Channel:https://vimeo.com/robotsinarchitecture/videos
-- Arch Daily Selection of 5 Robots Revolutionizing Architecture: http://www.archdaily.com/336849/5-robots-revolutionizing-architectures-future
+<iframe width="700" height="394" src="https://www.youtube.com/embed/H5AO_Ky-r28" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BSEVoFi9MpQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/onAd87P7Tzk" frameborder="0" allowfullscreen></iframe>
