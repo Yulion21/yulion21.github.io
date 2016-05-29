@@ -54,8 +54,8 @@ improve the user experience through beauty or comfort. It is possible to make mo
 solar protections that move automatically, sensors that let you know about the surroundings quality and so on.
 It is even possible to make the whole house a robot: a house that moves according to the season.
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/H5AO_Ky-r28" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/H5AO_Ky-r28" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/BSEVoFi9MpQ" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/onAd87P7Tzk" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/onAd87P7Tzk" frameborder="0" allowfullscreen></iframe>
