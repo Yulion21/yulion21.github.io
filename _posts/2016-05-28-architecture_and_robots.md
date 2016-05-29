@@ -39,7 +39,8 @@ robots that can helps us built buildings. The results are exciting: robots that 
 some that can pile bricks up with precision, robots that can 3D print a whole building, mechanical saws that
 can make organic and complex cuts into marble, and those are just some examples.
 
-https://vimeo.com/158804679
+<iframe src="https://player.vimeo.com/video/158804679" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/158804679">Mobile Robotic Brickwork</a> from <a href="https://vimeo.com/robotsinarchitecture">robotsinarchitecture</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 https://vimeo.com/97976677
 
