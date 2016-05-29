@@ -51,7 +51,7 @@ can make organic and complex cuts into marble, and those are just some examples.
 
 Even after being built a building can work with robotics. A building can make use of mechanical systems to
 improve the user experience through beauty or comfort. It is possible to make moving facades, dancing lights
-solar protections that move automatically, sensors that let you know about the surrounds quality and so on.
+solar protections that move automatically, sensors that let you know about the surroundings quality and so on.
 It is even possible to make the whole house a robot: a house that moves according to the season.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/H5AO_Ky-r28" frameborder="0" allowfullscreen></iframe>
