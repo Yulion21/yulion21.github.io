@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Architecture and Robots
-date:       2016-28-09 21:39:18
+date:       2016-05-28 21:47:12
 author:	    Juliano Verissimo
 summary:    An introduction on what is architecture, what is a robot and how they can combine.
 categories: architecture, robots
