@@ -4,7 +4,7 @@ title:      Architecture and Robots
 date:       2016-05-28 21:49:10
 author:	    Juliano Verissimo
 summary:    An introduction on what is architecture, what is a robot and how they can combine.
-categories: architecture, robots
+categories: architecture robots
 thumbnail: cogs
 tags:
  - about
