@@ -42,7 +42,8 @@ can make organic and complex cuts into marble, and those are just some examples.
 <iframe src="https://player.vimeo.com/video/158804679" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/158804679">Mobile Robotic Brickwork</a> from <a href="https://vimeo.com/robotsinarchitecture">robotsinarchitecture</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-https://vimeo.com/97976677
+<iframe src="https://player.vimeo.com/video/97976677" width="640" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/97976677">Minibuilders</a> from <a href="https://vimeo.com/stereotactic">STEREOTACTIC</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ## How Could Architecture be Robotic?
